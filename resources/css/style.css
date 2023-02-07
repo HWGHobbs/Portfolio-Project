@@ -255,7 +255,7 @@ nav ul {
 /* Splash Image Section */
 
 .banner {
-  background: url("C:/Users/Harry Hobbs/Documents/H.W.G. Hobbs/CodeCademy/Projects/Chpt. 16 - Personsal Portfolio/resources/images/Banner Image - Coding.jpg") no-repeat 50%;
+  background: url("../images/Banner Image - Coding.jpg") no-repeat 50%;
   background-size: cover;
   height: 75vh;
   padding-top: 88px;
